@@ -3,8 +3,7 @@ implement various recommender system models and compare their performance.
 1. [General](#General)
 2. [Program Structure](#Program-Structure)
 3. [Installation](#Installation)
-4. [Usage](#Usage)
-5. [Footnote](#footnote)
+4. [Footnote](#footnote)
 ## General
 The goal is to predict user rating based on recommender systems. The file of ratings our learning process was based on includes 100005 records with the following features:
 * user – The user’s unique identifier 
@@ -36,3 +35,8 @@ Main file includes the execution and train test and cleaning of the ratings file
 ```
     $ python3 main.py
 ```
+
+
+### Footnote
+The output is the RMSE of each recommender which is equals to:
+![image](https://i.imgur.com/ctCcWHh.png)
