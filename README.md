@@ -3,7 +3,6 @@ implement various recommender system models and compare their performance.
 1. [General](#General)
 2. [Program Strcuture](#Program Structure)
 3. [Installation](#Installation)
-
 4. [Usage](#Usage)
 5. [Footnote](#footnote)
 ## General
