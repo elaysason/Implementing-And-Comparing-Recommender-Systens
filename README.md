@@ -1,2 +1,2 @@
 # Implementing-And-Comparing-Recommender-Systens
-implement various recommender system models and compare their  performance. 
+implement various recommender system models and compare their performance. 
