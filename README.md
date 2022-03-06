@@ -39,4 +39,5 @@ Main file includes the execution and train test and cleaning of the ratings file
 
 ### Footnote
 The output is the RMSE of each recommender which is equals to:
+
 ![image](https://i.imgur.com/ctCcWHh.png)
