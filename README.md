@@ -19,7 +19,8 @@ The file learners includes the implantation of the different learners:
 is the average of all the ratings in the user-item ratings matrix 𝑅, 𝑏𝑢 is the average rating deviation for user 𝑢 
 and 𝑏𝑖 is the average rating deviation for item 𝑖. 
 * Neighborhood Recommender - based on 3 nearest neighbors.
+* Competition Recommender - based on variation of k means with a adiption for the required task.
 * LS Recommender - Uses regression model to predict the ratings
 ![image](https://i.imgur.com/9qgUOjF.png)
 
-Main includes the execution and train test and cleaning of the ratings file from bad records.
+Main file includes the execution and train test and cleaning of the ratings file from bad records.
