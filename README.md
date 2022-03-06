@@ -24,3 +24,15 @@ and 𝑏𝑖 is the average rating deviation for item 𝑖.
 ![image](https://i.imgur.com/9qgUOjF.png)
 
 Main file includes the execution and train test and cleaning of the ratings file from bad records.
+
+### Installation
+1.Open the terminal
+
+2.Clone the project by:
+```
+    $ git clone https://github.com/elaysason/Implementing-And-Comparing-Recommender-Systens.git
+```
+3.Run the check.py file by:
+```
+    $ python3 main.py
+```
