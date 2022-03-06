@@ -22,3 +22,5 @@ and 𝑏𝑖 is the average rating deviation for item 𝑖.
 * Neighborhood Recommender - based on 3 nearest neighbors.
 * LS Recommender - Uses regression model to predict the ratings
 ![image](https://i.imgur.com/9qgUOjF.png)
+
+Main includs the exection and train_test and cleaning of the ratings file from bad records.
