@@ -31,7 +31,7 @@ Main file includes the execution and train test and cleaning of the ratings file
 ```
     $ git clone https://github.com/elaysason/Implementing-And-Comparing-Recommender-Systens.git
 ```
-3.Run the check.py file by:
+3.Run the main.py file by:
 ```
     $ python3 main.py
 ```
