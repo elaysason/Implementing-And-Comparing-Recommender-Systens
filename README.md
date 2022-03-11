@@ -1,4 +1,4 @@
-# Implementing-And-Comparing-Recommender-Systens
+# Implementing-Movies-Recommender-Systems
 implement various recommender system models and compare their performance. 
 1. [General](#General)
 2. [Program Structure](#Program-Structure)
